@@ -33,7 +33,6 @@
 # ERD
 
 ![ERD](https://user-images.githubusercontent.com/118211014/212291104-a150580b-aa35-4313-a7ca-cd69a5e44a55.png)
-# 데모영상
 
 # 담당 구현사항
 
